@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0042-trapping-rain-water) |
@@ -38,9 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0412-fizz-buzz) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
