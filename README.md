@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0647-palindromic-substrings) |
 ## Simulation
