@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0042-trapping-rain-water) |
+| [0647-palindromic-substrings](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0042-trapping-rain-water) |
+| [0647-palindromic-substrings](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0412-fizz-buzz) |
+| [0647-palindromic-substrings](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0647-palindromic-substrings) |
 ## Simulation
 |  |
 | ------- |
