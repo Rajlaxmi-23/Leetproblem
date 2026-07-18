@@ -7,8 +7,8 @@ class Solution {
         int right = m*n -1;
 
         while(left <= right){
-            int mid = left +(right-left)/2;
-            int midvalue = matrix[mid / n][mid % n];
+            int mid = left +(right-left)/2;//find the mid pointer
+            int midvalue = matrix[mid / n][mid % n];//point that mid value in 2d array
 
             if(midvalue > target){
                 right = mid-1;
