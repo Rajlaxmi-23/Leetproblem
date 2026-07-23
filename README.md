@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0179-largest-number) |
 | [0704-binary-search](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0875-koko-eating-bananas) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0412-fizz-buzz) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
