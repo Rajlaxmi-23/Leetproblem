@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0179-largest-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
