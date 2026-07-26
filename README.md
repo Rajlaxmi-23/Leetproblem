@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0981-time-based-key-value-store) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
