@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0148-sort-list) |
 | [0647-palindromic-substrings](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
