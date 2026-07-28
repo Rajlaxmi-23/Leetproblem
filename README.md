@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0647-palindromic-substrings) |
 | [0981-time-based-key-value-store](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0981-time-based-key-value-store) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0179-largest-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
