@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0179-largest-number) |
+| [0287-find-the-duplicate-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0875-koko-eating-bananas) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0148-sort-list) |
+| [0287-find-the-duplicate-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0981-time-based-key-value-store) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0287-find-the-duplicate-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Design
 |  |
@@ -192,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0877-stone-game) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
