@@ -1,0 +1,22 @@
+class Solution {
+    public int findDuplicate(int[] nums) {
+        //initialize the slow and fast pointers
+        int slow = nums[0];
+        int fast = nums[nums[0]];
+
+        //Find the intersection point of the two  runners
+        while(slow != fast){
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        }
+
+        //Find the repeterd element or entrance to the cycle
+        slow = 0;
+        while(slow != fast){
+            slow = nums[slow];
+            fast = nums[fast];
+        }
+        return fast;
+        
+    }
+}
