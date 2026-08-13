@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -62,10 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
