@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0179-largest-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0853-car-fleet) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0877-stone-game) |
