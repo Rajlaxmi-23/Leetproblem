@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0486-predict-the-winner) |
+| [0622-design-circular-queue](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0853-car-fleet) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0622-design-circular-queue) |
 | [0981-time-based-key-value-store](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0981-time-based-key-value-store) |
 ## Recursion
 |  |
@@ -249,4 +252,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
