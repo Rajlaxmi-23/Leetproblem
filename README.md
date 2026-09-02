@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0877-stone-game) |
+| [1046-last-stone-weight](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0023-merge-k-sorted-lists) |
+| [1046-last-stone-weight](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
