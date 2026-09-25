@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0486-predict-the-winner) |
 | [0622-design-circular-queue](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0704-binary-search) |
