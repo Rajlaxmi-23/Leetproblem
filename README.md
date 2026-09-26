@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0485-max-consecutive-ones) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0876-middle-of-the-linked-list) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0877-stone-game) |
