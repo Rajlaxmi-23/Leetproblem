@@ -282,4 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0973-k-closest-points-to-origin) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
