@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0179-largest-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0877-stone-game) |
