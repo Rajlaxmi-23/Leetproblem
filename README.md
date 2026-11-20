@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0493-reverse-pairs) |
 | [0622-design-circular-queue](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0739-daily-temperatures) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0981-time-based-key-value-store) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0493-reverse-pairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0493-reverse-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -333,4 +337,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0204-count-primes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
