@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0739-daily-temperatures) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Rajlaxmi-23/Leetproblem/tree/master/0981-time-based-key-value-store) |
